@@ -36,7 +36,8 @@ def calculate_match_score(jd_text, cv_text):
 def send_email(to_email, candidate_name):
     # Your Gmail account credentials
     sender_email = "anishdawkhar9045@gmail.com"
-    sender_password = "xlthcdyycxpcigim"  # Use App Password, not your Gmail login
+    sender_password = "***********"  
+    
 
     subject = "Interview Invitation from SmartHire AI"
     body = f"""
