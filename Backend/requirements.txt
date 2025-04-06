@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+email-validator
+aiofiles
+smtplib
+scikit-learn
+python-dotenv
